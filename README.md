@@ -5,8 +5,8 @@
 2. Crear un entorno virtual (recomendado)
 3. Instalar librerias
 
-conda install tkinter
-conda install opencv-python
-conda install mtcnn
-conda install tensorflow
-conda install -m mysql-connector-python
+'conda install tkinter'
+'conda install opencv-python'
+'conda install mtcnn'
+'conda install tensorflow'
+'conda install -m mysql-connector-python'
