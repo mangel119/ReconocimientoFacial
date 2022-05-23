@@ -7,7 +7,7 @@
 
 ```
 conda install tkinter
-conda install opencv-python
+conda install -c menpo opencv
 conda install mtcnn
 conda install tensorflow
 conda install -m mysql-connector-python
