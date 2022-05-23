@@ -8,7 +8,7 @@ from matplotlib import pyplot as plt
 from mtcnn import MTCNN
 import database as db
 
-path = ""
+path = os.getcwd()
 txt_enter = "Iniciar Sesión"
 txt_register = "Registrarse"
 
